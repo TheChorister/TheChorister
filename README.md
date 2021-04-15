@@ -4,7 +4,7 @@
 <br />
 🌱 I’m currently learning *many, many* things, such as React, Swift, C and web development (front end and back end).
 <br />
-📫 You can reach me on Scratch on [my profile](https://scratch.mit.edu)
+📫 You can reach me on Scratch on [my profile](https://scratch.mit.edu/user/TheChorister)
 <br />
 
 It may look like I have no repositories, but that is mainly because all of them are private for the time being.
